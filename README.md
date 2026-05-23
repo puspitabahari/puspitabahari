@@ -1,7 +1,11 @@
 # Hi there! I'm Puspita 👋
 ### Data Enthusiast | IPB University Student
 
-I am passionate about building efficient data pipelines and deriving insights through data analysis. Currently focused on mastering the **ETL (Extract, Transform, Load)** process and **Data Engineering**.
+I am a Computer Engineering student at IPB University with a strong interest in Internet of Things (IoT), Data Science, and Machine Learning. I enjoy developing technology-based solutions through automation, embedded systems, and data analysis.
+
+I have worked on several IoT and machine learning projects, including an automatic fish feeding system and an automatic plant watering system using ESP8266 and soil moisture sensors. I also have experience in embedded systems development using RFID, DHT22 sensors, Bluetooth HC-05, and servo motors.
+
+Currently, I am improving my skills in Python, data analysis, machine learning, and IoT systems through projects and self-learning. I am open to internship and collaboration opportunities related to IoT, Data Science, and Machine Learning.
 
 ---
 
