@@ -33,4 +33,4 @@ I am passionate about building efficient data pipelines and deriving insights th
 
 ## 📫 Connect with me
 - 📧 Email: baharipuspita@apps.ipb.ac.id
-- 🎓 LinkedIn: [Puspita Bahari](https://linkedin.com/in/puspita-bahari)
+- 🎓 LinkedIn: [Puspita Bahari](www.linkedin.com/in/puspita-bahari-9b544b378)
