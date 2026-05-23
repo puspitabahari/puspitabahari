@@ -1,5 +1,5 @@
 # Hi there! I'm Puspita 👋
-### Data Enthusiast | IPB University Student
+### IoT & Data Science Enthusiast | Machine Learning Learner | Computer Engineering Student at IPB University
 
 I am a Computer Engineering student at IPB University with a strong interest in Internet of Things (IoT), Data Science, and Machine Learning. I enjoy developing technology-based solutions through automation, embedded systems, and data analysis.
 
