@@ -6,7 +6,6 @@ I am passionate about building efficient data pipelines and deriving insights th
 ---
 
 ## 🏅 My Dicoding Certifications
-<img src="https://raw.githubusercontent.com/dicodingacademy/assets/main/logo/dicoding-logo.png" width="200" alt="Dicoding Logo"/>
 
 ### 🚀 Intermediate Level
 | Course Name | Credential Link |
